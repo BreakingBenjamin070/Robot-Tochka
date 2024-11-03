@@ -2,4 +2,4 @@
 
 Основные функции системы представлены в виде UseCase диаграммы:
 
-![img](./_assets/UseCase.png)
+![img](./_assets/Common_UseCase.png)
